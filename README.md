@@ -1,5 +1,7 @@
 # Hello there, I'm Rohit Yadav 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsSpace&label=Profile%20views&color=0e75b6&style=flat" alt="rohis-sapce" /> </p>
+
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
