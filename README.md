@@ -1,12 +1,13 @@
 # Hello there, I'm Rohit Yadav 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsSpace&label=Profile%20views&color=brightgreen&style=flat" alt="rohis-sapce" /> </p>
+![](https://komarev.com/ghpvc/?username=rohitsSpace&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![ReactJS](https://img.shields.io/badge/ReactJs-Intermediate-blue)
 ![Git](https://img.shields.io/badge/Git-Expert-red)
+
 
 #### I'm a Sr. Front-End Developer working with publicisSapient in INDIA.
 
