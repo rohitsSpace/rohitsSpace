@@ -11,7 +11,7 @@
 
 
 
-#### I'm a Sr. Front-End Developer working with publicisSapient in INDIA.
+#### I'm a Lead Experience (Front-End) Developer working with Publicis Sapient in INDIA.
 
 - 🔭 Breathing React JS/Redux, GraphQL, Git, Zendesk, Next JS daily basis.
 - 🌱 Trying to plant a tree for AngularJS with AEM 
