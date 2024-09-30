@@ -13,10 +13,17 @@
 
 #### I'm a Lead Experience (Front-End) Developer working with Publicis Sapient in INDIA.
 
-- 🔭 Breathing React JS/Redux, GraphQL, Git, Zendesk, Next JS daily basis.
+- 🔭 Breathing React JS/Redux, GraphQL, Git, Zendesk, and Next JS daily.
 - 🌱 Trying to plant a tree for AngularJS with AEM 
 - 💬 Ask me about JS (Java Script), Node JS, Web development...etc
-- ⚡ Fun fact: in spare time you will find me either roaming around or doing After effects, Illustrator, Photoshop. **[3D, 2D animation]**.
+- ⚡ Fun fact: in my spare time you will find me roaming around or doing After Effects, Illustrator, and Photoshop. **[3D, 2D animation]**.
+- Senior software engineer / Lead FrontEnd engineer
+- Currently @ Publicis Sapient
+- 8+ years of full-stack experience, majorly on frontend
+- Created 20+ web projects
+- Most recent specialization: JavaScript / TypeScript (React), Python (for ML), micro-frontend
+- Living in Bengaluru. From INDIA 🇮🇳
+- Worked on 3+ Startups
 
 
 ### 📨 How to reach me
